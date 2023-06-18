@@ -7,12 +7,12 @@
 * Bruce E. Hall, W8BH <bhall66@gmail.com> - http://w8bh.net/gps_clock.pdf
 * 
 * 
-* For LittleFS 
-* Create data  folder and add the files nntpserverip, wifipassword and wifissid
-* If these files are empty:
+* There are three files in the data  folder: ntpserverip, wifipassword and wifissid
+* These files are initially empty:
 * Connect your pc to AP GPSTimeServer and goto url: 192.168.4.1
-* enter NTP server IP ( xxx.xxx.xxx.xxx), SSID and network Password
-* restart your server and goto IP addres
+* enter NTP server IP ( xxx.xxx.xxx.xxx) in ntpserverip, SSID in wifissid and network Password in wifipassword
+* Upload FilesystemImage 
+* restart your server and goto IP address  xxx.xxx.xxx.xxx
 */
 
 #include <Arduino.h>
