@@ -1,0 +1,4 @@
+{
+    "cmake.sourceDirectory": "C:/VSCode/ESPProjects/PlatformIO/Projects/ESP32-GPS-RTC-NTP-Server/.pio/libdeps/az-delivery-devkit-v4/AsyncTCP",
+    "idf.flashType": "UART"
+}
