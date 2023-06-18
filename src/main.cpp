@@ -3,7 +3,7 @@
 * Written by Marty Brugman 0n 2023-06-07
 *
 * Based on the work of:
-* Cristiano Monteiro <cristianomonteiro@gmail.com> - 06.May.2021
+* Cristiano Monteiro https://www.hackster.io/news/cristiano-monteiro-s-esp8266-powered-stratum-1-ntp-server-packs-battery-power-for-on-the-go-use-06b3d6efc222
 * Bruce E. Hall, W8BH <bhall66@gmail.com> - http://w8bh.net/gps_clock.pdf
 * 
 * 
