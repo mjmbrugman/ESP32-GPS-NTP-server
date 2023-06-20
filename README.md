@@ -13,5 +13,5 @@ Hardware
 
 - ESP32-WROOM-32 from AZ-Delivery 
 - DS3231 RTC Module from Otronic 
-- I2C display 128 x 64 Pixel from AZ-Delivery 
+- I2C display 128 x 64 Pixel OLED from AZ-Delivery 
 - OPEN-SMART GPS Serial GPS module for Arduino from Elektorstore
