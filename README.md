@@ -3,7 +3,7 @@
 
 How to set parameters: (fixed) IP, SSID and password
 
-1.Connect your pc to AP GPSTimeServer and goto url: 192.168.4.1
+1. Connect your pc to AP GPSTimeServer and goto url: 192.168.4.1
 
 2. enter NTP server IP ( xxx.xxx.xxx.xxx), SSID and network Password
 
